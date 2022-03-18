@@ -6,3 +6,5 @@ Il progetto si pone l'obiettivo di realizzare efficientemente, sia per complessi
 Viene reso possibile interfacciarsi con il programma attraverso lo STDIN: sono possibili i comandi AggiungiGrafo per aggiungere un grafo alla classifica e TopK per mostrare i k migliori grafi. Il numero di grafi e k vengono specificati sempre attraverso lo STDIN.
 
 La metrica della classifica è definita dalla somma di tutti i cammini minimi tra il nodo 0 e tutti gli altri nodi del grafo raggiungibili da 0
+
+La valutazione finale di questo progetto è 30L.
